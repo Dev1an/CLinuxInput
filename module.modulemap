@@ -1,5 +1,4 @@
 module CLinuxInput [system] {
   header "/usr/include/linux/input.h"
-  link "input"
   export *
 }
